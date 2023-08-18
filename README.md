@@ -6,7 +6,7 @@
 
 
 ## step 1: creating a user named (adeniyi)
-
+![1 creating-user](https://github.com/neyo55/cloud-assignment-1/assets/128255233/5e8fe45c-e8f5-4a25-9b08-6022b050234f)
 
 
 ## step 2: creating a group named (altschool)
