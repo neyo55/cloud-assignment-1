@@ -10,6 +10,7 @@
 
 
 ## step 2: creating a group named (altschool)
+![2 creating-group](https://github.com/neyo55/cloud-assignment-1/assets/128255233/6c292170-8ad1-40a8-bff8-39e53d1ae235)
 
 
 ## step 3: adding user to the group
