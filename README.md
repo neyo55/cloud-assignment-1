@@ -43,5 +43,5 @@
 ![11 creating-user-with-no-directory](https://github.com/neyo55/cloud-assignment-1/assets/128255233/4c913f8b-bef5-449c-9081-daf3c9126a3f)
 
 
-## step 9: No directory found for the user
+## step 9: No directory found for the other user (rufai)
 ![12 no-directory-created](https://github.com/neyo55/cloud-assignment-1/assets/128255233/781fea57-58d4-425d-8de1-59797b29ce4c)
